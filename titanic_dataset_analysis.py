@@ -41,7 +41,7 @@ y = df["Survived"]
 
 X.info()
 
-y[:5]
+#Removed this code
 
 X.shape, y.shape
 
